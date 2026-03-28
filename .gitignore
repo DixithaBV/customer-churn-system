@@ -2,7 +2,4 @@ venv/
 __pycache__/
 *.pyc
 .env
-*.pkl
-churn.db
 .DS_Store
-model/

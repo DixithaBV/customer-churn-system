@@ -1,0 +1,13 @@
+,0
+Contract,0.48562244
+InternetService,0.14256305
+tenure,0.05496039
+MonthlyCharges,0.044925723
+PaperlessBilling,0.040555235
+PhoneService,0.04027619
+TotalCharges,0.037177224
+PaymentMethod,0.03565148
+SeniorCitizen,0.03516584
+Dependents,0.033978734
+gender,0.02667309
+Partner,0.02245203
