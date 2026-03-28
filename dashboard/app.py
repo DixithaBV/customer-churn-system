@@ -30,7 +30,7 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 from sql_queries import QUERIES
 
 # ── config ────────────────────────────────────────────────────────────────────
-API_URL  = os.getenv("API_URL", "http://localhost:8000")
+API_URL  = os.getenv("API_URL", "https://customer-churn-api-fsdd.onrender.com")
 DB_PATH  = os.path.join(os.path.dirname(__file__), "..", "churn.db")
 MDL_DIR  = os.path.join(os.path.dirname(__file__), "..", "model")
 
