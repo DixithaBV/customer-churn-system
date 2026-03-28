@@ -4,8 +4,8 @@ End-to-end ML pipeline: Raw CSV → SQLite Database → XGBoost + SHAP Model →
 
 ## 🌐 Live Demo
 
-- **Dashboard:** [YOUR_STREAMLIT_URL_HERE]
-- **API Docs:** [YOUR_RENDER_URL_HERE/docs]
+- **Dashboard:** [Live App](https://dixitha-churn-system.streamlit.app)
+- **API Docs:** [Swagger UI](https://customer-churn-api-fsdd.onrender.com/docs)
 
 ## 🏗 Architecture
 
